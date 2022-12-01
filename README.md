@@ -98,7 +98,7 @@
 
 ## OSINT Bookmarks
 
-- OSINT Combine - [link]<https://www.osintcombine.com/osint-bookmarks>
+- OSINT Combine - [link](https://www.osintcombine.com/osint-bookmarks)
 
 ---
 
@@ -118,7 +118,7 @@
 
 ### Tools list
 
-- Intel Techniques - <https://inteltechniques.com/tools/>
+- Intel Techniques - [link](https://inteltechniques.com/tools/)
 
 - OSINT Techniques - <https://www.osinttechniques.com/osint-tools.html>
 
