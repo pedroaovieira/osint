@@ -118,23 +118,23 @@
 
 ### Tools list
 
-- Intel Techniques - [link](https://inteltechniques.com/tools/)
+- [Intel Techniques](https://inteltechniques.com/tools/)
 
-- OSINT Techniques - <https://www.osinttechniques.com/osint-tools.html>
+- [OSINT Techniques](https://www.osinttechniques.com/osint-tools.html)
 
-- Technisette - <https://technisette.com/p/tutorials>
+- [Technisette](https://technisette.com/p/tutorials)
 
-- Cyber Detective - <https://github.com/cipher387/osint_stuff_tool_collection>
+- [Cyber Detective](https://github.com/cipher387/osint_stuff_tool_collection)
 
-- OSINT4ALL - <https://start.me/p/L1rEYQ/osint4all>
+- [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all)
 
-- Curated List - <https://github.com/jivoi/awesome-osint>
+- [Curated List](https://github.com/jivoi/awesome-osint)
 
-- OSINT Link - <https://osint.link/>
+- [OSINT Link](https://osint.link/)
 
-- Aware Online - <https://www.aware-online.com/en/osint-tools/>
+- [Aware Online](https://www.aware-online.com/en/osint-tools/)
 
-- Photo OSINT - <https://start.me/p/0PgzqO/photo-osint>
+- [Photo OSINT](https://start.me/p/0PgzqO/photo-osint)
 
 ### Resources
 
