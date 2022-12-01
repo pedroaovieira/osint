@@ -704,14 +704,23 @@
 ## Other Footprinting Tools
 
 - Foca - <https://www.elevenpaths.com/innovation-labs/technologies/foca>
+
 - OSINT Framework - <https://osintframework.com/>
+
 - Recon-Dog - <https://github.com/s0md3v/ReconDog>
+
 - Maltego - <https://www.maltego.com/>
+
 - BillCipher - <https://github.com/84KaliPleXon3/BillCipher>
+
 - OSRFramework - <https://github.com/i3visio/osrframework>
+
 - Th3inspector - <https://github.com/Moham3dRiahi/Th3inspector>
+
 - Raccoon - <https://github.com/evyatarmeged/Raccoon>
+
 - orb - <https://github.com/epsylon/orb>
+
 - spiderfoot - <https://github.com/smicallef/spiderfoot>
 
 ---
