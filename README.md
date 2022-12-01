@@ -98,7 +98,7 @@
 
 ## OSINT Bookmarks
 
-- OSINT Combine - <https://www.osintcombine.com/osint-bookmarks>
+- OSINT Combine - [link]<https://www.osintcombine.com/osint-bookmarks>
 
 ---
 
@@ -122,7 +122,7 @@
 
 - OSINT Techniques - <https://www.osinttechniques.com/osint-tools.html>
 
-- Tec - <https://technisette.com/p/tutorials>
+- Technisette - <https://technisette.com/p/tutorials>
 
 - Cyber Detective - <https://github.com/cipher387/osint_stuff_tool_collection>
 
