@@ -210,6 +210,10 @@
 
 - [Hacktoria](hacktoria/README.md)
 
+- <https://tryhackme.com/>
+
+- [TryHackMe](tryhackme/README.md)
+
 - <https://investigator.cybersoc.wales/>
 
 - <https://ctf.cybersoc.wales/>
@@ -249,13 +253,21 @@
 ## Search Engines
 
 - Google - <https://www.google.com>
+
 - Bing - <https://www.bing.com>
+
 - Yahoo - <https://www.yahoo.com>
+
 - Ask - <https://www.ask.com/>
+
 - Aol - <https://www.aol.com>
+
 - Baidu - <https://www.baidu.com/>
+
 - WolframAlpha - <https://www.wolframalpha.com/>
+
 - DuckDuckGo - <https://duckduckgo.com/>
+
 - Yandex - <https://yandex.com/>
 
 ---
@@ -263,23 +275,37 @@
 ## Google Dorks
 
 - Google Advanced Search <https://www.google.com/advanced_search>
+
 - Google Hacking Database - <https://www.exploit-db.com/google-hacking-database>
+
 - gbhackers - <https://gbhackers.com/latest-google-dorks-list/>
+
 - google-dork-list - <https://www.boxpiper.com/posts/google-dork-list>
+
 - Google Guide - <http://www.googleguide.com/using_advanced_operators.html> - <http://www.googleguide.com/print/adv_op_ref.pdf>
 
 ### Operators
 
 - **filetype:** search your results based on the file extension
+
 - **cache:** This operator allows you to view cached version of the web page.
+
 - **allinurl:** This operator restricts results to pages containing all the query terms specified in the URL.
+
 - **inurl:** This operator restricts the results to pages containing the word specified in the URL
+
 - **allintitle:** This operator restricts results to pages containing all the query terms specified in the title.
+
 - **inanchor:** This operator restricts results to pages containing the query terms specified in the anchor text on links to the page.
+
 - **allinanchor:** This operator restricts results to pages containing all query terms specified in the anchor text on links to the page.
+
 - **link:** This operator searches websites or pages that contain links to the specified website or page.
+
 - **related:** This operator displays websites that are similar or related to the URL specified.
+
 - **info:** This operator finds information for the specified web page.
+
 - **location:** This operator finds information for a specific location.
 
 - 42 Advanced Operators - <https://ahrefs.com/blog/google-advanced-search-operators/>
@@ -289,9 +315,13 @@
 ## Dorks
 
 - `recibo vencimento ext:pdf`
+
 - `indexof site:pt`
+
 - `inurl:admin site:pt`
+
 - `password`
+
 - `hackedby`
 
 ---
@@ -305,9 +335,13 @@
 ## Video Search Engines
 
 - YouTube - <https://www.youtube.com/>
+
 - YouTube DataViewer - <https://citizenevidence.amnestyusa.org/>
+
 - Google Videos - <https://www.google.com/videohp>
+
 - Yahoo Video Search - <https://video.search.yahoo.com>
+
 - Video Reverse - <https://www.videoreverser.com/>
 
 ---
@@ -315,10 +349,15 @@
 ## Image Search Engines
 
 - Google Images - <https://images.google.com/>
+
 - Yahoo Images - <https://images.search.yahoo.com/>
+
 - Yandex Images - <https://yandex.com/images/>
+
 - Image Reverse - TinEye - <https://tineye.com/>
+
 - Image Reverse - ezgif - <https://ezgif.com/reverse>
+
 - Pimeyes - <https://pimeyes.com/en>
 
 ---
@@ -326,6 +365,7 @@
 ### Image Tools
 
 - Remove Background - <https://www.remove.bg/>
+
 - Cleanup Pictures - <https://cleanup.pictures>
 
 ---
@@ -335,34 +375,49 @@
 ### Maps
 
 - Google Maps - <https://www.google.com/maps>
+
 - Bing Maps - <https://www.bing.com/maps/>
+
 - Yandex: <https://www.yandex.com/maps>
+
 - Baidu: <https://www.map.baidu.com>
+
 - Zoom Earth - <https://zoom.earth/>
+
 - Wikimapia - <https://wikimapia.org>
+
 - Apple Maps: <https://www.apple.com/maps>
+
 - KartaView: <https://www.kartaview.org>
+
 - Dual Maps - <http://data.mashedworld.com/dualmaps/>
 
 ### Street View
 
 - Google Street View: <https://www.google.com/maps>
+
 - Mapillary: <https://www.mapillary.com>
 
 ### Satelite
 
 - Satelite Tracking - <https://www.n2yo.com/>
+
 - Sentinel Hub - <https://www.sentinel-hub.com/explore/sentinelplayground/>
+
 - Sentinel Hub Playground - <http://apps.sentinel-hub.com/sentinel-playground/>
+
 - Sentinel Hub EO Browser - <https://www.sentinel-hub.com/explore/eobrowser/>
 
 - World Imagery - <https://livingatlas.arcgis.com/>
+
 - World Imagery Wayback - <https://livingatlas.arcgis.com/wayback/>
 
 ### Misc tools
 
 - Mountains - <https://peakvisor.com/>
+
 - Sun Calc - <https://suncalc.org>
+
 - Open Infrastructure Map - <https://openinframap.org/>
 
 ---
@@ -370,6 +425,7 @@
 ## Geolocation Recon tips and tricks
 
 - Tips, Tricks and Techniques - <https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/>
+
 - Guide to using reverse image - <https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/>
 
 ### 3 word location
@@ -393,13 +449,21 @@
 ## Portugal
 
 - Contracts - <https://www.base.gov.pt>
+
 - Publicações Min. Justiça <https://publicacoes.mj.pt/Pesquisa.aspx>
+
 - Search DRE - <https://dre.tretas.org>
+
 - Penhorados - <https://www.pesquisabenspenhorados.com/leiloes-vendas-financas/default.aspx>
+
 - Automovel - Pedido da Certidão Permanente do Registo Automóvel dos Registos em Vigor - <https://www.automovelonline.mj.pt/AutoOnlineProd/FrontOfficeController?action=validaMatricula&url=FrontOfficeController%3Faction%3Dpedidocertidao&contr=FrontOfficeController>
+
 - VIN Search - <https://www.lastvin.com/>
+
 - Predial - <https://www.predialonline.pt/>
+
 - DGES - <https://www.dges.gov.pt>
+
 - Seguro - <https://www.asf.com.pt/isp/Templates/Atendimento/PesquisaVeiculoSeguro.aspx?FRAMELESS=false&NRNODEGUID=%7b09089E16-115D-4C82-9C64-FDA43D5FF098%7d&NRORIGINALURL=%2fNR%2fexeres%2f019EEB91-E357-4A7C-8BD2-B62293701692%2ehtm&NRCACHEHINT=Guest>
 
 ---
@@ -407,10 +471,15 @@
 ## Find people
 
 - Hunter - <https://hunter.io>
+
 - Phonebook.cz - <https://phonebook.cz/>
+
 - VoilaNorbert - <https://www.voilanorbert.com/>
+
 - Clearbit Connect - <https://connect.clearbit.com/>
+
 - Email Hippo - <https://tools.emailhippo.com/>
+
 - Email Checker - <https://email-checker.net/>
 
 ---
@@ -419,11 +488,16 @@
 
 - **theHarvester** - <https://github.com/laramies/theHarvester>
   - `theHarvester -d microsoft.com -l 200 -b baidu`
+
   - `theHarvester -d eccouncil -l 200 -b linkedin`
+
   - `theHarvester -f theHarvester_results.xml -b 'baidu,bing,duckduckgo,google,yahoo,netcraft,linkedin,twitter' -l 500 -d somedomain.com`
+
 - Sherlock - <https://github.com/sherlock-project/sherlock>
   - `python3 sherlock satya nadella`
+
 - Social Searcher - <https://www.social-searcher.com/>
+
 - UserRecon - <https://github.com/issamelferkh/userrecon>
   - `./userrecon.sh`
 
@@ -432,9 +506,13 @@
 ### Social Media
 
 - Friends and followers
+
 - Media (pictures, videos, audio)
+
 - Posts/Comments
+
 - Phone numbers/ Dates / Schedules
+
 - Likes / Dislikes
 
 ---
@@ -442,11 +520,17 @@
 ### Security questions
 
 - What was your childhood nickname?
+
 - What is the first school you attended?
+
 - What was your first pets name?
+
 - What street did you grow up on?
+
 - What's the ciry where your parents met?
+
 - What was the city you where born in?
+
 - What's the name of your oldest cousin?
 
 ---
@@ -454,7 +538,9 @@
 ### Facebook
 
 - StalkFace - <https://stalkface.com/en/>
+
 - Sowdust Github - <https://www.sowsearch.info/>
+
 - IntelligenceX Facebook Search - <https://intelx.io/tools?tab=facebook>
 
 ---
@@ -462,7 +548,9 @@
 ### Twitter
 
 - Twitter Advanced Search - <https://twitter.com/search-advanced>
+
 - Twint - <https://github.com/twintproject/twint>
+
 - Botometer - <https://botometer.osome.iu.edu/>
 
 ---
@@ -476,21 +564,33 @@
 ## Username OSINT
 
 - NameChk - <https://namechk.com/>
+
 - WhatsMyName - <https://whatsmyname.app/>
+
 - NameCheckup - <https://namecheckup.com/>
+
 - KnowEM - <https://knowem.com/>
+
 - User search - <https://usersearch.org>
+
 - My Life - <https://www.mylife.com/>
 
 ## Personal Information
 
 - Social Bearing - <https://socialbearing.com/>
+
 - Peek You - <https://www.peekyou.com/>
+
 - Pipl - <https://pipl.com/>
+
 - Family Tree - <https://familytreenow.com>
+
 - That's Them - <https://thatsthem.com>
+
 - Intelius - <https://www.intelius.com/>
+
 - Sync me - <https://sync.me/>
+
 - True Caller - <https://www.truecaller.com/>
 
 ---
@@ -498,6 +598,7 @@
 ## Bitcoin
 
 - Bitcoin Whos Who - <https://www.bitcoinwhoswho.com/>
+
 - Bit Ref - <https://bitref.com>
 
 ---
@@ -505,9 +606,13 @@
 ## Job Board Recon
 
 - Monster - <https://www.monster.com/>
+
 - Smart Recruiters - <https://www.smartr.me/>
+
 - Linkedin - <https://www.linkedin.com/>
+
 - Xing - <https://www.xing.com/>
+
 - Glassdoor - <https://www.glassdoor.com/>
 
 ---
