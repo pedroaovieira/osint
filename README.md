@@ -3,7 +3,6 @@
 - [OSINT](#osint)
   - [Starting point](#starting-point)
   - [OSINT Bookmarks](#osint-bookmarks)
-  - [Too see](#too-see)
   - [External Resource](#external-resource)
     - [Tools list](#tools-list)
     - [Resources](#resources)
@@ -14,7 +13,6 @@
   - [Challenges](#challenges)
   - [Local IP](#local-ip)
   - [VMs](#vms)
-  - [Browser Plugin](#browser-plugin)
   - [Search Engines](#search-engines)
   - [Google Dorks](#google-dorks)
     - [Operators](#operators)
@@ -79,10 +77,12 @@
     - [Sock Puppets Tutorials](#sock-puppets-tutorials)
   - [Scams](#scams)
   - [Browser OSINT](#browser-osint)
+  - [Browser Plugin](#browser-plugin)
   - [Firefox](#firefox)
   - [Chrome](#chrome)
   - [Search Engines List](#search-engines-list)
 
+---
 ---
 
 ## Starting point
@@ -95,27 +95,21 @@
 
 - [OSINT - Beware. Your data is out there.](presentation/README.md)
 
+
+---
 ---
 
 ## OSINT Bookmarks
 
 - OSINT Combine - [link](https://www.osintcombine.com/osint-bookmarks)
 
+
 ---
-
-## Too see
-
-- <https://yoga.osint.ninja/>
-
-- <https://www.maltego.com/>
-
-- <https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc>
-
-- IntelligenceX - <https://intelx.io/>
-
 ---
 
 ## External Resource
+
+---
 
 ### Tools list
 
@@ -137,6 +131,9 @@
 
 - [Photo OSINT](https://start.me/p/0PgzqO/photo-osint)
 
+
+---
+
 ### Resources
 
 - TCM - <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
@@ -153,9 +150,12 @@
 
 - Yoga - <https://yoga.osint.ninja/>
 
+
+---
+
 ### Videos
 
-- TCM - Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! - <https://www.youtube.com/watch?v=qwA6MmbeGNo>
+- [TCM - Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://www.youtube.com/watch?v=qwA6MmbeGNo)
 
 - OSINT Dojo - <https://www.youtube.com/c/OSINTDojo>
 
@@ -182,6 +182,7 @@
 - 0x4rkØ - Solved OSINT Challenges - <https://www.youtube.com/playlist?list=PLc_hdO4HVYGCg21E7lSQY6UltFigzwbbw>
 
 ---
+---
 
 ## Book
 
@@ -189,6 +190,8 @@
 
 - OSINT Handbook 2020 (local) - [link](OSINT_Handbook_2020.pdf)
 
+
+---
 ---
 
 ## Tracelabs CTF
@@ -197,6 +200,8 @@
 
 - [Notes](TraceLabs/README.md)
 
+
+---
 ---
 
 ## Challenges
@@ -213,6 +218,8 @@
 
 - <https://sourcing.games/>
 
+
+---
 ---
 
 ## Local IP
@@ -236,20 +243,6 @@
 - CSILinux - <https://csilinux.com/>
 
 - OSINT Combine - <https://drive.google.com/file/d/16T-3_PnNbsXV-IBe5EpT2EVGfkOJWXDD/view?usp=sharing>
-
----
-
-## Browser Plugin
-
-- InVID - <https://weverify.eu/verification-plugin/>
-- Google Translate
-- Map Switcher
-- RevEye
-- Vortimo OSINT-tool - <https://www.vortimo.com/>
-- Vortimo UI
-- EXIF Viewer Pro
-- Search by Image - <https://github.com/dessant/search-by-image>
-- TinEye Reverse Image Search - <https://tineye.com/>
 
 ---
 
@@ -849,6 +842,20 @@ Always check everything is working correctly by confirming - <https://mylocation
 
 - <https://webbrowsertools.com/>
 - <https://browserleaks.com/>
+
+---
+
+## Browser Plugin
+
+- InVID - <https://weverify.eu/verification-plugin/>
+- Google Translate
+- Map Switcher
+- RevEye
+- Vortimo OSINT-tool - <https://www.vortimo.com/>
+- Vortimo UI
+- EXIF Viewer Pro
+- Search by Image - <https://github.com/dessant/search-by-image>
+- TinEye Reverse Image Search - <https://tineye.com/>
 
 ---
 
