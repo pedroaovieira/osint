@@ -10,6 +10,7 @@
     - [Videos](#videos)
     - [Solved OSINT Challenges](#solved-osint-challenges)
   - [Book](#book)
+  - [Tracelabs CTF](#tracelabs-ctf)
   - [Challenges](#challenges)
   - [Local IP](#local-ip)
   - [VMs](#vms)
@@ -187,6 +188,14 @@
 - OSINT Handbook 2020 - [link](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
 
 - OSINT Handbook 2020 (local) - [link](OSINT_Handbook_2020.pdf)
+
+---
+
+## Tracelabs CTF
+
+- [Tracelabs CTF](https://www.tracelabs.org/initiatives/search-party)
+
+- [Notes](TraceLabs/README.md)
 
 ---
 
