@@ -87,7 +87,12 @@
 ## Starting point
 
 - [Training](01_training.md)
+
 - [OSINT Guide](02_guide.md)
+
+- [Cherrytree Template](template/README.md)
+
+- [OSINT - Beware. Your data is out there.](presentation/README.md)
 
 ---
 
@@ -100,8 +105,11 @@
 ## Too see
 
 - <https://yoga.osint.ninja/>
+
 - <https://www.maltego.com/>
+
 - <https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc>
+
 - IntelligenceX - <https://intelx.io/>
 
 ---
@@ -111,12 +119,19 @@
 ### Tools list
 
 - Intel Techniques - <https://inteltechniques.com/tools/>
+
 - OSINT Techniques - <https://www.osinttechniques.com/osint-tools.html>
+
 - Tec - <https://technisette.com/p/tutorials>
+
 - Cyber Detective - <https://github.com/cipher387/osint_stuff_tool_collection>
+
 - OSINT4ALL - <https://start.me/p/L1rEYQ/osint4all>
+
 - Curated List - <https://github.com/jivoi/awesome-osint>
+
 - OSINT Link - <https://osint.link/>
+
 - Aware Online - <https://www.aware-online.com/en/osint-tools/>
 
 - Photo OSINT - <https://start.me/p/0PgzqO/photo-osint>
@@ -124,10 +139,15 @@
 ### Resources
 
 - TCM - <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
+
 - OSINT Framework - <https://osintframework.com/>
+
 - OSINT Framework - <https://osintframework.de/>
+
 - Technisette - <https://technisette.com/>
+
 - OSINT Dojo - <https://www.osintdojo.com/resources/>
+
 - OSINT CURIOUS - <https://osintcurio.us/>
 
 - Yoga - <https://yoga.osint.ninja/>
@@ -135,14 +155,23 @@
 ### Videos
 
 - TCM - Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! - <https://www.youtube.com/watch?v=qwA6MmbeGNo>
+
 - OSINT Dojo - <https://www.youtube.com/c/OSINTDojo>
+
 - OSINT Curious - <https://www.youtube.com/c/TheOSINTCuriousProject>
+
 - Network Chuck - Instagram OSINT - <https://www.youtube.com/watch?v=NWyqSbnsvGU>
+
 - David Bombal - OSINT: You can't hide - <https://www.youtube.com/watch?v=ImWJgDQ-_ek>
+
 - STOK - 10+ Free OSINT tools (secure yourself today!) - <https://www.youtube.com/watch?v=z6ghArAWwWc>
+
 - Sumsub - How to Stalk People Effectively and Legally Through OSINT - <https://www.youtube.com/watch?v=lF3yQFtYRBY>
+
 - Penn State - OSINT The Art of Finding Information on Anyone - <https://www.youtube.com/watch?v=SvL9bpsY-ZQ>
+
 - Benjamin Strick - Bendobrown - OSINT At Home - <https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy>
+
 - conINT - <https://www.youtube.com/c/conINT_io>
 
 ---
@@ -156,16 +185,23 @@
 ## Book
 
 - OSINT Handbook 2020 - [link](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
+
 - OSINT Handbook 2020 (local) - [link](OSINT_Handbook_2020.pdf)
 
 ---
 
 ## Challenges
 
-- <https://investigator.cybersoc.wales/>
-- <https://ctf.cybersoc.wales/>
-- <https://www.geoguessr.com/>
 - <https://hacktoria.com/>
+
+- [Hacktoria](hacktoria/README.md)
+
+- <https://investigator.cybersoc.wales/>
+
+- <https://ctf.cybersoc.wales/>
+
+- <https://www.geoguessr.com/>
+
 - <https://sourcing.games/>
 
 ---
@@ -179,6 +215,7 @@
 ## VMs
 
 - Tracelabs OSINT VM - <https://www.tracelabs.org/initiatives/osint-vm>
+
 - TraceLabs OSINT VM Installation Guide - <https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf>
   
 - ThreatPursuit-VM - <https://github.com/mandiant/ThreatPursuit-VM>
@@ -714,7 +751,7 @@
 
 ### Shodan Guide
 
-[Shodan](shodan.md)
+[Shodan](shodan/README.md)
 
 #### Shodan Dorks
 

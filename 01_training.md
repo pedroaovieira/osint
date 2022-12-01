@@ -30,6 +30,7 @@
 ### Trace Labs OISNT Foundations Course
 
 - <https://academy.osintcombine.com/courses/enrolled/900054>
+- [Notes](OSINT_Combine/README.md)
 
 ---
 

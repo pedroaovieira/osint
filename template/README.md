@@ -1,0 +1,1 @@
+Template for cherrytree to use in OSINT investigations
