@@ -23,4 +23,4 @@
 
 * [Hacktoria](hacktoria/README.md)
 
-* [TryHAckMe](TryHAckMe/README.md)
+* [Try Hack Me](TryHackMe/README.md)

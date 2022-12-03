@@ -1,6 +1,28 @@
 # OSINT
 
+* [OSINT - Beware. Your data is out there.](presentation/README.md)
+
+* [OSINT](README.md)
+
+* [Book](README.md#book)
+
+* [Training](01_training.md)
+
+* [Guide](02_guide.md)
+
+* [Shodan](shodan/README.md)
+
+* [TraceLabs](TraceLabs/README.md)
+
+* [Hacktoria](hacktoria/README.md)
+
+* [Try Hack Me](TryHackMe/README.md)
+
+
+# Table of contents
+
 - [OSINT](#osint)
+- [Table of contents](#table-of-contents)
   - [Starting point](#starting-point)
   - [OSINT Bookmarks](#osint-bookmarks)
   - [External Resource](#external-resource)
