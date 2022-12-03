@@ -13,7 +13,7 @@
 
 ## Practice
 
-[Practice](hactoria_practice/README.md)
+[Practice](hacktoria_practice/README.md)
 
 ---
 

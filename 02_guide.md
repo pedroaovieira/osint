@@ -1,6 +1,6 @@
-# TraceLabs Guide - Hactoria
+# TraceLabs Guide - Hacktoria
 
-- [TraceLabs Guide - Hactoria](#tracelabs-guide---hactoria)
+- [TraceLabs Guide - Hacktoria](#tracelabs-guide---hacktoria)
   - [Points](#points)
   - [Missing persons](#missing-persons)
   - [Colections](#colections)

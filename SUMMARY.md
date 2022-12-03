@@ -15,12 +15,12 @@
 
 * [Training](01_training.md)
 
-* [Guide](02_guide.md)
+* [TraceLabs Guide - Hacktoria](02_guide.md)
 
 * [Shodan](shodan/README.md)
 
-* [TraceLabs](TraceLabs/README.md)
+* [TraceLabs CTF](TraceLabs/README.md)
 
 * [Hacktoria](hacktoria/README.md)
 
-* [Try Hack Me](TryHackMe/README.md)
+* [TryHackMe OSINT Challenges](TryHackMe/README.md)
