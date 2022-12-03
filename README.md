@@ -12,6 +12,8 @@
 | [Hacktoria](hacktoria/README.md) | Hacktoria's Challenges Write-ups |
 | [TryHackMe OSINT Challenges](TryHackMe/README.md) | TryHackMe OSINT Challenges Write-ups |
 
+---
+
 # Table of contents
 
 - [OSINT](#osint)
@@ -79,7 +81,6 @@
   - [Wifi](#wifi)
   - [WaybackMachine](#waybackmachine)
   - [Canary Tokens](#canary-tokens)
-  - [Tools](#tools)
   - [Shodan, Censys, and Thingful](#shodan-censys-and-thingful)
     - [Shodan Guide](#shodan-guide)
       - [Shodan Dorks](#shodan-dorks)
@@ -98,7 +99,6 @@
   - [Search Engines List](#search-engines-list)
 
 ---
----
 
 ## Starting point
 
@@ -110,16 +110,12 @@
 
 - [OSINT - Beware. Your data is out there.](presentation/README.md)
 
-
----
 ---
 
 ## OSINT Bookmarks
 
-- OSINT Combine - [link](https://www.osintcombine.com/osint-bookmarks)
+- [OSINT Combine Bookmarks](https://www.osintcombine.com/osint-bookmarks)
 
-
----
 ---
 
 ## External Resource
@@ -146,25 +142,23 @@
 
 - [Photo OSINT](https://start.me/p/0PgzqO/photo-osint)
 
-
 ---
 
 ### Resources
 
-- TCM - <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
+- [TCM](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources)
 
-- OSINT Framework - <https://osintframework.com/>
+- [OSINT Framework](https://osintframework.com/)
 
-- OSINT Framework - <https://osintframework.de/>
+- [OSINT Framework DE](https://osintframework.de/)
 
-- Technisette - <https://technisette.com/>
+- [Technisette](https://technisette.com/)
 
-- OSINT Dojo - <https://www.osintdojo.com/resources/>
+- [OSINT Dojo](https://www.osintdojo.com/resources/)
 
-- OSINT CURIOUS - <https://osintcurio.us/>
+- [OSINT CURIOUS](https://osintcurio.us/)
 
-- Yoga - <https://yoga.osint.ninja/>
-
+- [Yoga](https://yoga.osint.ninja/)
 
 ---
 
@@ -197,7 +191,6 @@
 - 0x4rkØ - Solved OSINT Challenges - <https://www.youtube.com/playlist?list=PLc_hdO4HVYGCg21E7lSQY6UltFigzwbbw>
 
 ---
----
 
 ## Book
 
@@ -205,8 +198,6 @@
 
 - OSINT Handbook 2020 (local) - [link](OSINT_Handbook_2020.pdf)
 
-
----
 ---
 
 ## Tracelabs CTF
@@ -215,19 +206,17 @@
 
 - [Notes](TraceLabs/README.md)
 
-
----
 ---
 
 ## Challenges
 
 - <https://hacktoria.com/>
 
-- [Hacktoria](hacktoria/README.md)
+- [Hacktoria Notes](hacktoria/README.md)
 
 - <https://tryhackme.com/>
 
-- [TryHackMe](tryhackme/README.md)
+- [TryHackMe Notes](tryhackme/README.md)
 
 - <https://investigator.cybersoc.wales/>
 
@@ -237,8 +226,6 @@
 
 - <https://sourcing.games/>
 
-
----
 ---
 
 ## Local IP
@@ -463,23 +450,23 @@
 
 ## Portugal
 
-- Contracts - <https://www.base.gov.pt>
+- [Public Contracts in Portugal](https://www.base.gov.pt)
 
-- Publicações Min. Justiça <https://publicacoes.mj.pt/Pesquisa.aspx>
+- [Publicações Min. Justiça](https://publicacoes.mj.pt/Pesquisa.aspx)
 
-- Search DRE - <https://dre.tretas.org>
+- [Search DRE](https://dre.tretas.org)
 
-- Penhorados - <https://www.pesquisabenspenhorados.com/leiloes-vendas-financas/default.aspx>
+- [Penhorados](https://www.pesquisabenspenhorados.com/leiloes-vendas-financas/default.aspx)
 
-- Automovel - Pedido da Certidão Permanente do Registo Automóvel dos Registos em Vigor - <https://www.automovelonline.mj.pt/AutoOnlineProd/FrontOfficeController?action=validaMatricula&url=FrontOfficeController%3Faction%3Dpedidocertidao&contr=FrontOfficeController>
+- [Automovel - Pedido da Certidão Permanente do Registo Automóvel dos Registos em Vigor](https://www.automovelonline.mj.pt/AutoOnlineProd/FrontOfficeController?action=validaMatricula&url=FrontOfficeController%3Faction%3Dpedidocertidao&contr=FrontOfficeController)
 
-- VIN Search - <https://www.lastvin.com/>
+- [VIN Search](https://www.lastvin.com/)
 
-- Predial - <https://www.predialonline.pt/>
+- [Predial](https://www.predialonline.pt/)
 
-- DGES - <https://www.dges.gov.pt>
+- [DGES](https://www.dges.gov.pt)
 
-- Seguro - <https://www.asf.com.pt/isp/Templates/Atendimento/PesquisaVeiculoSeguro.aspx?FRAMELESS=false&NRNODEGUID=%7b09089E16-115D-4C82-9C64-FDA43D5FF098%7d&NRORIGINALURL=%2fNR%2fexeres%2f019EEB91-E357-4A7C-8BD2-B62293701692%2ehtm&NRCACHEHINT=Guest>
+- [Seguro](https://www.asf.com.pt/isp/Templates/Atendimento/PesquisaVeiculoSeguro.aspx?FRAMELESS=false&NRNODEGUID=%7b09089E16-115D-4C82-9C64-FDA43D5FF098%7d&NRORIGINALURL=%2fNR%2fexeres%2f019EEB91-E357-4A7C-8BD2-B62293701692%2ehtm&NRCACHEHINT=Guest)
 
 ---
 
@@ -590,6 +577,8 @@
 
 - My Life - <https://www.mylife.com/>
 
+---
+
 ## Personal Information
 
 - Social Bearing - <https://socialbearing.com/>
@@ -645,27 +634,39 @@
     - Very anonymous Peer-2-Peer network
       - <https://freenetproject.org>
       - <https://retroshare.cc/>
+
   - Privacy Networks
     - Tor
+
+---
 
 ### Access
 
 - Tor - <https://www.torproject.org/>
   - Check if Ip is Tor - ExoneraTor - <https://metrics.torproject.org/exonerator.html>
+
 - **Tails** - <https://tails.boum.org/>
+
 - Whonix - <https://www.whonix.org/>
-&nbsp;&nbsp;
+
+---
 
 ### Sites
 
 - <https://iaca-darkweb-tools.com/>
+
 - <https://onionsearchengine.com/>
+
 - <https://thehiddenwiki.org>
+
+---
 
 ### Onion sites
 
 - The Hidden Wiki - <http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page> is an onion site that works as a Wikipedia service of hidden websites
+
 - FakeID - <http://fakeidskhfik46ux.onion> is an onion site for creating fake passports
+
 - The Paypal Cent - <http://nare7pqnmnojs2pg.onion> is an onion site that sells PayPal accounts with good balances
 
 ---
@@ -674,12 +675,16 @@
 
 - strings
   - `strings file`
+
 - On-line - <http://exif.regex.info/exif.cgi>
+
 - exif - sudo apt install exif
   - `exif file`
+
 - metagoofil - <https://github.com/opsdisk/metagoofil> - <https://github.com/laramies/metagoofil>
   - `metagoofil -d certifiedhacker.com -t pdf,doc,xls,ppt,txt -e 200`
   - `metagoofil -o metagoofil_results -u 'Randomize User-Agent' -r 10 -e 45 -l 100 -n 100 -w -t 'pdf,doc,docx,xls,xlsx' -d somedomain.com`
+
 - exiftool - <https://exiftool.org/>
   - `exiftool file`
 
@@ -688,8 +693,11 @@
 ## Email Tracking
 
 - Infoga - <https://github.com/m4ll0k/Infoga>
+
 - EmailTrackerPro - <http://www.emailtrackerpro.com/>
+
 - bitly - <https://bitly.com/>
+
 - Linkly - <https://linklyhq.com/>
 
 ---
@@ -697,14 +705,23 @@
 ## Website Information
 
 - robots.txt
+
 - sitemap.xml
+
 - viewsource
+
 - Measure page quality - <https://web.dev/measure/>
+
 - seo-analyzer - <https://neilpatel.com/seo-analyzer/>
+
 - whatweb - <https://morningstarsecurity.com/research/whatweb>
+
 - wappalyzer - <https://www.wappalyzer.com/>
+
 - Builtwith - <https://builtwith.com/>
+
 - Website Informer - <https://website.informer.com/>
+
 - Web Data Extractor - <http://www.webextractor.com/>
 
 ---
@@ -712,14 +729,19 @@
 ## Public Network Footprinting
 
 - <https://mxtoolbox.com>
+
 - <https://dnschecker.org/all-dns-records-of-domain.php>
+
 - <https://dnsspy.io/scan/>
+
 - <https://centralops.net/co/DomainDossier.aspx>
 
 ### Network Range
 
 - IANA (Internet Assigned Numbers Authority) - <https://www.iana.org/numbers>
+
 - ARIN  (American Registry for Internet Numbers) - <https://www.arin.net/about/welcome/region/>
+
 - RIPE  () - <https://www.ripe.net/>
 
 ---
@@ -733,23 +755,30 @@
 ### WHOIS and DNS
 
 - **Domain Tools Whois** - <https://whois.domaintools.com/>
+
 - Network Tools - <https://network-tools.com/>
+
 - DNS Stuff - <https://www.dnsstuff.com/freetools>
+
 - Batch IP Converter - <http://www.sabsoft.com/BatchIPConverter.htm>
-&nbsp;&nbsp;
+
 - nslookup
   - `nslookup certifiedhacker.com`
     - interactive: set type=a
     - cname: set type=cname
+
 - dmtry
   - `dmitry -i www.certifiedhacker.com`
+
 - dig
   - `dig certifiedhacker.com`
   - `dig yahoo.com mx`
   - `dig yahoo.com SOA`
   - `dig yahoo.com ANY +noall +answer`
+
 - dnsrecon
   - `dnsrecon -d certifiedhacker.com`
+
 - nslookup - <http://www.kloth.net/services/nslookup.php>
 
 ---
@@ -758,6 +787,7 @@
 
 - dig
   - `dig axfr @nsztm1.digi.ninja zonetransfer.me`
+
 - digi.ninja - <https://digi.ninja/projects/zonetransferme.php>
 
 ---
@@ -765,6 +795,7 @@
 ### Reverse DNS Lookup
 
 - Network Tools - <https://www.yougetsignal.com/>
+
 - dnsrecon - <https://github.com/darkoperator/dnsrecon>
   - `dnsrecon -r 162.241.216.0/24`
 
@@ -778,10 +809,12 @@
     - `traceroute -I`
   - TCP
     - `traceroute -T`
+
 - tcptraceroute
   - `tcptraceroute`
-&nbsp;&nbsp;
+
 - Path Analyzer Pro - <https://www.pathanalyzer.com>
+
 - VisualRoute  - <https://www.visualroute.com>
 
 ---
@@ -789,22 +822,31 @@
 ### Sub-Domain Enumeration
 
 - Domains - gTLD (Generic Top-Level Domain)
+
 - Sub-Domains
-&nbsp;&nbsp;
+
 - Google - <https://www.google.com>
   - `site:itpro.tv`
+
 - Netcraft Tools - <https://www.netcraft.com/tools/>
-- **Netcraft Site Report** - <https://sitereport.netcraft.com/?url=https://www.eccouncil.org/>
-- **Netcraft Search DNS** - <https://searchdns.netcraft.com/?host=*.eccouncil.org>
+  - **Netcraft Site Report** - <https://sitereport.netcraft.com/?url=https://www.eccouncil.org/>
+  - **Netcraft Search DNS** - <https://searchdns.netcraft.com/?host=*.eccouncil.org>
+
 - sublist3r - <https://github.com/aboul3la/Sublist3r>
   - `python3  ./sublist3r.py -d domain.com -o domain.com.txt`
+
 - httprobe - <https://github.com/tomnomnom/httprobe>
+
 - **Amass** - <https://github.com/OWASP/Amass>
 
 - crt.sh - <https://crt.sh/>
+
 - **DNS Dumpster** - <https://dnsdumpster.com/>
+
 - **Hacker Target** - <https://hackertarget.com>
+
 - **ipinfo.io** - <https://ipinfo.io>
+
 - Pentest Tools - <https://pentest-tools.com/>
 
 **More Info** - <https://hover.blog/whats-a-domain-name-subdomain-top-level-domain/>
@@ -856,10 +898,15 @@
 ## WaybackMachine
 
 - WaybackMachine - <https://archive.org/web/>
+
 - Archive.is - <http://archive.is/>
+
 - Cached Pages - <http://www.cachedpages.com/>
+
 - Cached View - <http://cachedview.com/>
+
 - OldWeb.Today - <https://oldweb.today/>
+
 - Time Travel - <http://timetravel.mementoweb.org/>
 
 ---
@@ -870,25 +917,30 @@
 
 ---
 
-## Tools
-
----
-
 ## Shodan, Censys, and Thingful
 
 - Shodan - <https://help.shodan.io/the-basics/what-is-shodan>
+
 - Censys - <https://about.censys.io/>
+
 - Thingfull - <https://www.thingful.net/site/about>
+
+---
 
 ### Shodan Guide
 
-[Shodan](shodan/README.md)
+- [Shodan Guide](shodan/README.md)
+
+---
 
 #### Shodan Dorks
 
 - `Remote desktop country:pt city:"Braga"`
+
 - `winrest port:5901 country:pt`
+
 - `smb contabilidade country:pt`
+
 - `smb series country:pt`
 
 ---
@@ -897,6 +949,7 @@
 
 - wget
   - `wget -mkEpnp site`
+
 - HTTrack Website Copier - <https://www.httrack.com/>
 
 ---
@@ -904,11 +957,17 @@
 ## Password OSINT
 
 - HaveIBeenPwned - <https://haveibeenpwned.com/>
+
 - Breach-Parse - <https://github.com/hmaverickadams/breach-parse>
+
 - Dehashed - <https://dehashed.com/>
+
 - WeLeakInfo - <https://weleakinfo.to/v2/>
+
 - LeakCheck - <https://leakcheck.io/>
+
 - SnusBase - <https://snusbase.com/>
+
 - Scylla.so - <https://scylla.so/>
 
 ---
@@ -916,6 +975,7 @@
 ## Temporary Email
 
 - 10 minute email - <https://10minutemail.com/>
+
 - 20 minute email - <https://www.20minutemail.com/>
 
 ---
@@ -923,7 +983,9 @@
 ## VPN
 
 - ProtonVPN - <https://protonvpn.com/>
+
 - PrivadoVPN - <https://privadovpn.com/>
+
 - Windscribe - <https://windscribe.com>
 
 Always check everything is working correctly by confirming - <https://mylocation.org/>
@@ -939,15 +1001,23 @@ Always check everything is working correctly by confirming - <https://mylocation
 ## Sock Puppets
 
 - Fake Identity - <https://datafakegenerator.com/>
+
 - Fake Identity - <https://www.fakenamegenerator.com/>
+
 - Fake Photo - <https://thispersondoesnotexist.com/>
+
 - Geolocation extensions - <https://chrome.google.com/webstore/category/extensions>
+
 - Privacy.com - <https://privacy.com/join/LADFC>
+
+---
 
 ### Sock Puppets Tutorials
 
 - Intro to Creating an Effective Sock Puppet (wayback archive): <https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/>
+
 - The Art Of The Sock - <https://www.secjuice.com/the-art-of-the-sock-osint-humint/>
+
 - My Process for Setting up Anonymous Sock Puppet Accounts - <https://garrettmickley.com/sockpuppet-account-creation/>
 
 ---
@@ -961,6 +1031,7 @@ Always check everything is working correctly by confirming - <https://mylocation
 ## Browser OSINT
 
 - <https://webbrowsertools.com/>
+
 - <https://browserleaks.com/>
 
 ---
@@ -968,13 +1039,21 @@ Always check everything is working correctly by confirming - <https://mylocation
 ## Browser Plugin
 
 - InVID - <https://weverify.eu/verification-plugin/>
+
 - Google Translate
+
 - Map Switcher
+
 - RevEye
+
 - Vortimo OSINT-tool - <https://www.vortimo.com/>
+
 - Vortimo UI
+
 - EXIF Viewer Pro
+
 - Search by Image - <https://github.com/dessant/search-by-image>
+
 - TinEye Reverse Image Search - <https://tineye.com/>
 
 ---
@@ -982,14 +1061,23 @@ Always check everything is working correctly by confirming - <https://mylocation
 ## Firefox
 
 - [uBlock Origin] - <https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/>
+
 - [Multi-Account Containers] - <https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/>
+
 - [Wayback Machine] - <https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/>
+
 - [Fireshot] - <https://addons.mozilla.org/en-US/firefox/addon/fireshot/>
+
 - [Translate] - <https://addons.mozilla.org/en-US/firefox/addon/simple-translate/>
+
 - [Video Download Helper] - <https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/>
+
 - [Netcraft] - <https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/>
+
 - [IP Address and Domain] - <https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info/>
+
 - [Shodan] - <https://addons.mozilla.org/en-US/firefox/addon/shodan-addon/>
+
 - [Firefox Relay] - <https://addons.mozilla.org/en-US/firefox/addon/private-relay/>
 
 ---
@@ -997,23 +1085,39 @@ Always check everything is working correctly by confirming - <https://mylocation
 ## Chrome
 
 - [Google Translate] - <https://chrome.google.com/webstore/category/extensions>
+
 - [User-Agent Swircher for Chrome] - <https://chrome.google.com/webstore/category/extensions>
+
 - [Wayback Machine] - <https://chrome.google.com/webstore/category/extensions>
+
 - [Fireshot] - <https://chrome.google.com/webstore/category/extensions>
+
 - [Video Download Helper] - <https://chrome.google.com/webstore/category/extensions>
+
 - [Change Geolocation] - <https://chrome.google.com/webstore/category/extensions>
 
 - invid verify
+
 - vortimo osint-tool
+
 - reveye
+
 - tineye
+
 - map switcher
+
 - exif viewer pro
+
 - google translate
+
 - vortimo browser extension
+
 - data miner scraper <https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/>
+
 - hunter.io
+
 - vlc video downloader
+
 - Full Page Screen Capture: <https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en-GB>
 
 ---
