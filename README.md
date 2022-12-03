@@ -1,23 +1,16 @@
 # OSINT
 
-* [OSINT - Beware. Your data is out there.](presentation/README.md)
-
-* [OSINT](README.md#osint)
-
-* [Book](README.md#book)
-
-* [Training](01_training.md)
-
-* [Guide](02_guide.md)
-
-* [Shodan](shodan/README.md)
-
-* [TraceLabs](TraceLabs/README.md)
-
-* [Hacktoria](hacktoria/README.md)
-
-* [Try Hack Me](TryHackMe/README.md)
-
+| Sub-Category | Description |
+| :--- | :--- |
+| [OSINT - Beware. Your data is out there.](presentation/README.md) | Two part presentation on OSINT and privacy awareness |
+| [OSINT](README.md#osint) | Notes on OSINT |
+| [Book](README.md#book) | Link to OSINT Handbook 2020 |
+| [Training](01_training.md) | Trainings on OSINT |
+| [Shodan](shodan/README.md) | Notes on Shodan |
+| [TraceLabs CTF](TraceLabs/README.md) | Introductory notes to TraceLabs CTF |
+| [TraceLabs Guide - Hacktoria](02_guide.md) | Small guide to do an OSINT Investigation |
+| [Hacktoria](hacktoria/README.md) | Hacktoria's Challenges Write-ups |
+| [TryHackMe OSINT Challenges](TryHackMe/README.md) | TryHackMe OSINT Challenges Write-ups |
 
 # Table of contents
 

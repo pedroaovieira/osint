@@ -1,4 +1,4 @@
-# TryHackMe
+# TryHackMe OSINT Challenges
 
 - [introductory-researching](introductory-researching/README.md)
 

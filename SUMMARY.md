@@ -15,11 +15,11 @@
 
 * [Training](01_training.md)
 
-* [TraceLabs Guide - Hacktoria](02_guide.md)
-
 * [Shodan](shodan/README.md)
 
 * [TraceLabs CTF](TraceLabs/README.md)
+
+* [TraceLabs Guide - Hacktoria](02_guide.md)
 
 * [Hacktoria](hacktoria/README.md)
 
