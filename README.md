@@ -5,7 +5,7 @@
 | [OSINT - Beware. Your data is out there.](presentation/README.md) | Two part presentation on OSINT and privacy awareness |
 | [OSINT](README.md#osint) | Notes on OSINT |
 | [Book](README.md#book) | Link to OSINT Handbook 2020 |
-| [Training](01_training.md) | Trainings on OSINT |
+| [Trainings](01_training.md) | Trainings on OSINT |
 | [Shodan](shodan/README.md) | Notes on Shodan |
 | [TraceLabs CTF](TraceLabs/README.md) | Introductory notes to TraceLabs CTF |
 | [TraceLabs Guide - Hacktoria](02_guide.md) | Small guide to do an OSINT Investigation |

@@ -1,6 +1,6 @@
-# Tranings and Certifications
+# Trainings and Certifications
 
-- [Tranings and Certifications](#tranings-and-certifications)
+- [Trainings and Certifications](#Trainings-and-certifications)
   - [OSINT Combine](#osint-combine)
     - [Trace Labs OISNT Foundations Course](#trace-labs-oisnt-foundations-course)
   - [TCM-SEC](#tcm-sec)
