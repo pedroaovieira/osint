@@ -1,14 +1,14 @@
 # TryHackMe
 
-- [introductory-researching](TryHackMe/rooms/introductory-researching/README.md)
+- [introductory-researching](introductory-researching/README.md)
 
-- [google-dorking](TryHackMe/rooms/google-dorking/README.md)
+- [google-dorking](google-dorking/README.md)
 
-- [geolocating-images](TryHackMe/rooms/geolocating-images/README.md)
+- [geolocating-images](geolocating-images/README.md)
 
-- [ohsint](TryHackMe/rooms/ohsint/README.md)
+- [ohsint](ohsint/README.md)
 
-- [searchlight-imint](TryHackMe/rooms/searchlight-imint/README.md)
+- [searchlight-imint](searchlight-imint/README.md)
 
 - shodan
 
@@ -16,4 +16,4 @@
 
 - webosint
 
-- [sublist3r](TryHackMe/rooms/sublist3r/README.md)
+- [sublist3r](sublist3r/README.md)

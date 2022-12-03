@@ -2,7 +2,7 @@
 
 * [OSINT - Beware. Your data is out there.](presentation/README.md)
 
-* [OSINT](README.md)
+* [OSINT](README.md#osint)
 
 * [Book](README.md#book)
 
