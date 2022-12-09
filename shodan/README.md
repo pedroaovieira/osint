@@ -115,6 +115,7 @@
 ## CheatSheet
 
 - <https://thedarksource.com/shodan-cheat-sheet/>
+- <https://securitytrails.com/blog/top-shodan-dorks>
 
 ## Censys (alternative)
 
