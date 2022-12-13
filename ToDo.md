@@ -33,6 +33,8 @@ https://www.dgae.medu.pt/download/recrutamento-2/listas-2/202223-listas-recrutam
 
 lista com data de nascimento
 
+que pode ser cruzada com a lista da DGES
+
 ---
 
 https://servicosonline.inpi.pt/pesquisas/main/marcas.jsp?lang=PT
