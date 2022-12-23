@@ -66,6 +66,7 @@
     - [Onion sites](#onion-sites)
   - [Metadata Recon](#metadata-recon)
   - [Email Tracking](#email-tracking)
+  - [Email Reputation](#email-reputation)
   - [Website Information](#website-information)
   - [Public Network Footprinting](#public-network-footprinting)
     - [Network Range](#network-range)
@@ -85,6 +86,7 @@
     - [Shodan Guide](#shodan-guide)
       - [Shodan Dorks](#shodan-dorks)
   - [Website cloner](#website-cloner)
+  - [Website sandbox](#website-sandbox)
   - [Password OSINT](#password-osint)
   - [Temporary Email](#temporary-email)
   - [VPN](#vpn)
@@ -700,6 +702,10 @@
 
 - Linkly - <https://linklyhq.com/>
 
+## Email Reputation
+
+- Simple Email Reputation - <https://emailrep.io/>
+
 ---
 
 ## Website Information
@@ -761,6 +767,8 @@
 - DNS Stuff - <https://www.dnsstuff.com/freetools>
 
 - Batch IP Converter - <http://www.sabsoft.com/BatchIPConverter.htm>
+
+- WHOIS - <https://who.is/>
 
 - nslookup
   - `nslookup certifiedhacker.com`
@@ -951,6 +959,16 @@
   - `wget -mkEpnp site`
 
 - HTTrack Website Copier - <https://www.httrack.com/>
+
+---
+
+## Website sandbox
+
+- Urlscan.io - <https://urlscan.io/>
+
+- Browserling - <https://www.browserling.com/>
+	
+- Wannabrowser - <https://www.wannabrowser.net/>
 
 ---
 
