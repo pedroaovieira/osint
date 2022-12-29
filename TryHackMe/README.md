@@ -1,14 +1,14 @@
 # TryHackMe OSINT Challenges
 
-- [introductory-researching](introductory-researching/README.md)
+- [introductory-researching](rooms/introductory-researching/README.md)
 
-- [google-dorking](google-dorking/README.md)
+- [google-dorking](rooms/google-dorking/README.md)
 
-- [geolocating-images](geolocating-images/README.md)
+- [geolocating-images](rooms/geolocating-images/README.md)
 
-- [ohsint](ohsint/README.md)
+- [ohsint](rooms/ohsint/README.md)
 
-- [searchlight-imint](searchlight-imint/README.md)
+- [searchlight-imint](rooms/searchlight-imint/README.md)
 
 - shodan
 
@@ -16,4 +16,4 @@
 
 - webosint
 
-- [sublist3r](sublist3r/README.md)
+- [sublist3r](rooms/sublist3r/README.md)
