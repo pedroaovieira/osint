@@ -470,6 +470,8 @@
 
 - [Seguro](https://www.asf.com.pt/isp/Templates/Atendimento/PesquisaVeiculoSeguro.aspx?FRAMELESS=false&NRNODEGUID=%7b09089E16-115D-4C82-9C64-FDA43D5FF098%7d&NRORIGINALURL=%2fNR%2fexeres%2f019EEB91-E357-4A7C-8BD2-B62293701692%2ehtm&NRCACHEHINT=Guest)
 
+- [Marcas Registadas](https://servicosonline.inpi.pt/pesquisas/main/marcas.jsp?lang=PT)
+
 ---
 
 ## Find people
