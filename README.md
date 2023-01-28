@@ -1144,6 +1144,8 @@ Always check everything is working correctly by confirming - <https://mylocation
 - vortimo browser extension
 
 - data miner scraper <https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/>
+https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden?hl=en-GB
+
 
 - hunter.io
 
