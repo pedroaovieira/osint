@@ -14,6 +14,12 @@
 
 - IntelligenceX - <https://intelx.io/>
 
+- https://elevenlabs.io/
+
+- https://xpressioncamera.com/
+
+- leaked data
+
 ---
 
 ## Too see PT
