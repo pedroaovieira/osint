@@ -19,7 +19,7 @@
 
 - <https://academy.osintcombine.com/courses/enrolled/900054>
 - [Notes](OSINT_Combine/README.md)
-
+2
 ---
 
 ## TCM-SEC
