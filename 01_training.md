@@ -42,7 +42,7 @@
 
 ---
 
-## Joe Gray
+## Joe Gray @C_3PJoe
 
 ### Workshop: 2 Hour People OSINT Walkthrough
 
