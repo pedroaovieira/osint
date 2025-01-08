@@ -989,6 +989,8 @@
 
 - HaveIBeenPwned - <https://haveibeenpwned.com/>
 
+- Hudson Rock - <https://www.hudsonrock.com/threat-intelligence-cybercrime-tools> 
+
 - Breach-Parse - <https://github.com/hmaverickadams/breach-parse>
 
 - Dehashed - <https://dehashed.com/>
