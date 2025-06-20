@@ -989,6 +989,8 @@
 
 - HaveIBeenPwned - <https://haveibeenpwned.com/>
 
+- Hudson Rock - <https://www.hudsonrock.com/threat-intelligence-cybercrime-tools> 
+
 - Breach-Parse - <https://github.com/hmaverickadams/breach-parse>
 
 - Dehashed - <https://dehashed.com/>
@@ -1056,6 +1058,7 @@ Always check everything is working correctly by confirming - <https://mylocation
 ## Scams
 
 - Scam Digger -  <https://scamdigger.com>
+- Chain Abuse - <https://www.chainabuse.com/>
 
 ---
 
