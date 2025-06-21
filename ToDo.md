@@ -1,23 +1,12 @@
 # To Do
 
-- [ ] review the OSINT_Combine Training notes - (OSINT_Combine/README.md)
-- [ ] browser addons on main page
-- [ ] TryHackMe pages
+<!-- TOC -->
 
----
- 
-## Too see
+- [To Do](#to-do)
+    - [Too see](#too-see)
+    - [Too see PT](#too-see-pt)
 
-- <https://www.maltego.com/>
-
-- <https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc>
-
-- IntelligenceX - <https://intelx.io/>
-
-- https://elevenlabs.io/
-
-- https://xpressioncamera.com/
-
+<!-- /TOC -->
 - fakeyou.com
 
 - leaked data
@@ -110,3 +99,4 @@ usar o foca em pdfs de desoachis reitorais - email do reitor no gmail -
 
 
 
+https://osintteam.blog/osint-how-to-find-information-on-anyone-5029a3c7fd56
