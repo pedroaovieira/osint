@@ -1158,6 +1158,17 @@ https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldb
 
 ---
 
+## Ransomware
+
+- <https://www.ransomware.live/>
+- <https://www.ransomware.live/map/PT>
+- <https://x.com/H4ckManac>
+- <https://ransomwatch.telemetry.ltd>
+- <https://www.breachsense.com>
+- <https://www.hookphish.com>
+
+---
+
 ## Search Engines List
 
 1. Dehashed—View leaked credentials.
