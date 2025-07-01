@@ -477,6 +477,8 @@
 
 - [Predial](https://www.predialonline.pt/)
 
+- [Sistema de Certificação Energética dos Edifícios / Artigo matricial](https://www.sce.pt/pesquisa-certificados/)
+
 - [DGES](https://www.dges.gov.pt)
 
 - [Seguro](https://www.consumidor.asf.com.pt/servi%C3%A7os/verificar-seguro-atrav%C3%A9s-da-matr%C3%ADcula)
