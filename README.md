@@ -614,6 +614,10 @@
 
 - True Caller - <https://www.truecaller.com/>
 
+- Rocket reach - <https://rocketreach.co>
+
+- Luscha - <https://www.lusha.com>
+
 ---
 
 ## Bitcoin
