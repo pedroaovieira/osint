@@ -21,4 +21,4 @@
 
 - https://github.com/joelsernamoreno/badusb_examples/tree/master/attiny85_digispark
 
-- 
+- https://raw.githubusercontent.com/pedroaovieira/osint/refs/heads/main/duck/ransomware.jpg
