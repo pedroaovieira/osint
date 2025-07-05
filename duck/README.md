@@ -22,3 +22,13 @@
 - https://github.com/joelsernamoreno/badusb_examples/tree/master/attiny85_digispark
 
 - https://raw.githubusercontent.com/pedroaovieira/osint/refs/heads/main/duck/ransomware.jpg
+
+- https://github.com/MTK911/Attiny85/blob/master/README.md
+
+- https://duckify.huhn.me/
+
+- https://www.youtube.com/watch?v=6Ciq5zmq150
+
+- https://github.com/cifertech/EvilDuck
+
+- https://www.youtube.com/watch?v=6Ciq5zmq150
