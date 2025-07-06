@@ -1,6 +1,9 @@
+# Rubber Ducky / BadUSB / EvilUSB
+
 <!-- TOC -->
 
 - [Rubber Ducky / BadUSB / EvilUSB](#rubber-ducky--badusb--evilusb)
+    - [Rubber Ducky / BadUSB / EvilUSB](#rubber-ducky--badusb--evilusb)
     - [Attiny85](#attiny85)
     - [Setup](#setup)
     - [Keyboard](#keyboard)
@@ -10,7 +13,7 @@
 
 <!-- /TOC -->
 
-# Rubber Ducky / BadUSB / EvilUSB
+## Rubber Ducky / BadUSB / EvilUSB
 
 - [USB Rubber Ducky - Hak5](https://shop.hak5.org/products/usb-rubber-ducky)
 
