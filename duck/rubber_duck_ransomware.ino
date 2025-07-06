@@ -121,5 +121,3 @@ void loop() {
   DigiKeyboard.sendKeyStroke(KEY_F11);
   for(;;){ /*empty*/ }
 }
-
-//
