@@ -1007,8 +1007,6 @@
 
 - SnusBase - <https://snusbase.com/>
 
-- Scylla.so - <https://scylla.so/>
-
 ---
 
 ## Temporary Email
