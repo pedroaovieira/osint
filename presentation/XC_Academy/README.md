@@ -1,4 +1,4 @@
-URL: https://aisonggenerator.ai/pt/share/Beer%2C%20Wurst%2C%20and%20Vulns&id=1337725
+[Beer, Wurst, and Vulns](https://aisonggenerator.ai/pt/share/Beer%2C%20Wurst%2C%20and%20Vulns&id=1337725)
 
 [Intro, Dark synth intro, Spoken Word Rhythm]
 Good afternoon and welcome, gather ‘round and see
