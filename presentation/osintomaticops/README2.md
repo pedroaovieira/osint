@@ -1,0 +1,89 @@
+Bienvenidos a todos, hoy vamos a desgranar un caso de estudio muy potente que demuestra
+cómo la información que está ahí fuera, al alcance de cualquiera, puede llegar a tener
+unas consecuencias políticas de primer nivel.
+Y la pregunta que va a guiar toda esta charla es precisamente esa, ¿cómo es posible que
+unos datos que están a la vista de todos puedan tener la fuerza suficiente como para
+provocar la caída de un gobierno entero?
+Bueno, pues nuestro caso práctico nos lleva a Portugal y se centra en una figura política
+de altísimo nivel, el primer ministro, Luis Montenegro.
+Lo que se descubrió sobre él utilizando solo fuentes abiertas, desató una tormenta
+política en toda regla.
+Y aquí viene lo interesante, la clave para destapar toda esta trama no fue un hackeo
+ni una filtración interna, el arma, por así decirlo, fue una metodología que todos aquí
+conocemos muy bien, la inteligencia de fuentes abiertas, o lo que es lo mismo, OSINT.
+A ver, ¿qué es exactamente el OSINT?
+Pensemos en ello como el arte de ser un detectiva en la era digital.
+Se trata de recopilar piezas de un puzzle que están esparcidas por internet a la vista
+de todos y unirlas para revelar una imagen completa que nadie había visto antes.
+Y las herramientas no son nada del otro mundo.
+Páginas web del gobierno, registros públicos, buscadores, archivos de empresas, incluso
+las redes sociales.
+La magia no está tanto en las herramientas, sino en saber cómo tirar del hilo.
+Vamos a ver el primer paso.
+Cada investigación que se precie empieza por un punto de partida, y en este caso nos
+fuimos al sitio más obvio y sobre todo más oficial, el propio portal del gobierno portugués.
+Empezamos por la fuente oficial, para sentar una base de datos fiable.
+Esto nos proporciona los primeros datos biográficos y profesionales sobre nuestro objetivo.
+Vale, aquí tenemos la información básica, nombre, fecha de nacimiento, su carrera, pero
+lo importante para un analista de OSINT es que cada uno de estos datos es un posible
+Por ejemplo, su empleo anterior como fundador de SPMM, bingo, ya tenemos nuestra primera
+pista seria.
+Siendo una figura política, el siguiente paso es de manual, el registro de intereses
+del parlamento.
+Esto, creedme, suele ser una auténtica mina de oro para descubrir posibles conflictos.
+Y efectivamente la imagen se vuelve mucho más nítida.
+De repente tenemos su nombre completo, el nombre de su cónyuge y, lo más importante,
+una lista de sus participaciones en empresas.
+Esto es clave.
+Nuestro perfil de inteligencia va cogiendo cuerpo, pero todavía nos faltan piezas clave,
+como su número de identificación fiscal, el NIF.
+Sin embargo, ahora tenemos nombres de empresas como SPMM y Luis Monteago, que se convierten
+en nuestras próximas vías de investigación.
+Con los nombres de estas empresas en la mano, ya podemos pivotar hacia registros mercanteles
+y bases de datos de contratos públicos.
+En otras palabras, es el momento de empezar a seguir el rastro del dinero.
+Los registros mercantiles son fundamentales.
+Al buscar las empresas, es muy habitual encontrar documentos oficiales que contienen el número
+de identificación fiscal de los directores, y en muchos sistemas, el NIF es la llave maestra
+para desbloquear muchísima más información.
+Y ahí está, este es un momento clásico en una investigación OSINT.
+Un solo dato, el registro de la empresa nos acaba de regalar dos piezas cruciales, su
+NIF personal y una dirección.
+Nuestro perfil está casi, casi completo.
+Y ahora, con la identidad de su bufete de abogados, podemos hacer una de las búsquedas
+más reveladoras que existen, consultar la base de datos de contratos públicos.
+Y lo que aparece es, bueno, es muy significativo.
+Más de 800.000 euros, esa es la cantidad en contratos públicos que se adjudicaron
+a SPMM, el bufete de abogados que fue cofundado por el futuro primer ministro de Portugal.
+Y aquí es donde las alarmas empiezan a sonar de verdad.
+Una parte importante de estos contratos provenía del municipio de Espiño, un lugar donde,
+casualmente, Montenegro había ocupado cargos políticos clave.
+La conexión es directa.
+Pero los datos, por si solo son solo puntos en un mapa.
+La verdadera inteligencia, lo que de verdad impacta, emerge cuando los conectamos para
+construir una cronología de hechos.
+Es ahí donde la historia cobra vida.
+Fijaos en esta secuencia.
+En 2021, registra una empresa familiar.
+En 2022, mientras asciende en el poder de su partido, renuncia a la gerencia, quizás
+para evitar conflictos de intereses.
+Se convierte en primer ministro en abril de 2024.
+Y aquí viene el punto clave.
+En marzo de 2025, a raíz del escrutinio público sobre estas conexiones empresariales y los
+contratos, la presión se vuelve insostenible.
+Su esposa renuncia a su cargo en la empresa y el escándalo culmina con el colapso de
+su gobierno.
+La cronología lo deja clarísimo.
+¿Sus negocios privados tuvieron repercusiones públicas directas?
+Entonces, ¿cuál es la gran lección que sacamos de todo esto?
+Lo que hemos visto es el poder en estado puro de Lowsint para coger datos que parecen aburridos
+y dispersos y tejer con ellos una narrativa coherente y con un impacto real, muy real,
+en el mundo.
+La lección es meridiana.
+En la era digital, la línea que separa los negocios privados de la responsabilidad pública
+es más fina que nunca.
+Y con herramientas como el Lowsint, esa línea es completamente transparente.
+Y esto nos deja con una reflexión final para llevarnos a casa.
+Si toda esta historia se pudo reconstruir a partir de registros públicos, la pregunta
+ya no es si hay otras historias ahí fuera, sino cuántas y quién será el primero en
+encontrarlas.
