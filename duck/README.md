@@ -22,6 +22,7 @@
 - [EvilDuck](https://github.com/cifertech/EvilDuck)
 - [BadUSB](https://github.com/0xnarwhal/BadUSB)
 - [tinyduck](https://github.com/jpdias/tinyduck-io)
+- [badusb-digispark](https://docs.spacehuhn.com/blog/badusb-digispark/)
 
 ## Attiny85
 
